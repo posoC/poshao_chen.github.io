@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Enginnering, National Taiwan University, 2012
-* M.S. in Electronics Enginerring, National Taiwan University, 2014
+* B.S. in Electrical Enginnering, National Taiwan University, 2018
+* M.S. in Electronics Enginerring, National Taiwan University, 2021
 
 Work experience
 ======
