@@ -8,4 +8,4 @@ date: 2016-11-01
 location: "Taipei, Taiwan"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+<!--This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!-->
