@@ -14,7 +14,7 @@ I received my B.S. degree in electrical engineering in 2018 and M.S. degree in e
 During my free time, I like participating in a variety of sports, such as volleyball, badminton, and ping-pong. I am also fond of jogging and weight training. <br/>
 
 <img src='/images/ntu_emblem.png' width='120' >
-<img src='/images/HP.jpg' width='120' >
+<img src='/images/HP.jpg' width='120' > <br/>
 
 Email address: chen427chen@gmail.com <br/>
 Last update: 11/11/2021
