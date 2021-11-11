@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Won the Bronze Medal Award in 21<sup>th Macronix Golden Silicon Award"
+excerpt: "Served as a team leader and competed with 200+ teams<br/><img src='/images/macronix.jpeg'>"
 collection: portfolio
 ---
 
