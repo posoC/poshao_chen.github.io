@@ -3,7 +3,7 @@ title: "Accelerator IC for Blind Image Deblurring"
 collection: teaching
 type: "Digital VLSI Design"
 permalink: /teaching/deblurIC
-venue: "Digital Circuits and Systems Laboratory, NTU"
+venue: "Digital Circuits and Systems Laboratory, National Taiwan University"
 date: 2018-09-01
 location: "City, Country"
 ---
