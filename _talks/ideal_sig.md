@@ -1,7 +1,7 @@
 ---
 title: "Ideal Signal Reconstruction for Distinguishing Gas Concentration"
 collection: talks
-type: "Side Project"
+type: "M.S. Side Project"
 permalink: /talks/ideal_sig
 venue: "National Taiwan University"
 date: 2018-10-01
