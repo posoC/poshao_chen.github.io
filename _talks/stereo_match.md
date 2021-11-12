@@ -7,6 +7,9 @@ venue: "National Taiwan University"
 date: 2019-12-01
 location: "Taipei, Taiwan"
 ---
+
+[Report](http://posoc.github.io/files/cv_final_project.pdf)<br/>
+
 <img src='/images/stereo_match.png' width='600'>
 
 
