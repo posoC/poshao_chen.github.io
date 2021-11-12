@@ -3,6 +3,7 @@ title: "Stereo Matching - Depth Map Generation on More Realistic Scenes"
 collection: talks
 type: "Final Project"
 permalink: /talks/2014-02-01-talk-2
+excerpt: "<br/><img src='/images/stereo_match.png' width='600'>"
 venue: "National Taiwan University"
 date: 2019-12-01
 location: "Taipei, Taiwan"
