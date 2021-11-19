@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Link](pososc.github.io/files/CV.pdf)
+
 Education
 ======
 * M.S. in Electronics Enginerring, National Taiwan University, 2021
