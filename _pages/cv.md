@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Link](pososc.github.io/files/CV.pdf)
+[PDF Link](http://pososc.github.io/files/CV.pdf)
 
 Education
 ======
