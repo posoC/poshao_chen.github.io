@@ -11,4 +11,4 @@ location: "City, Country"
 
 <br>
 
-Introduction of blind image deblurring.
+Camera’s movement causes a blurred image, but a deblurring algorithm can reconstruct a sharp image. Since the blur kernel’s information is usually unknown in advance, a blind deblurring algorithm is needed. After the blur kernel is estimated, deconvolution is applied to reconstruct the sharp image with the estimated blur kernel. This work presents a blind deblurring accelerator that implements an alternating minimization algorithm by leveraging dark channel prior.
