@@ -11,6 +11,10 @@ redirect_from:
 
 [PDF Link](http://pososc.github.io/files/CV.pdf)
 
+Research Interest
+======
+Energy efficient hardware accelerator for digital signal processing, machine learning, or bioinformatics
+
 Education
 ======
 * M.S. in Electronics Enginerring, National Taiwan University, 2021
