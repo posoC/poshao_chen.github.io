@@ -33,6 +33,7 @@ Research & Work experience
 * Graduate Student Researcher, Digital Circuits and Systems Lab, NTU, July 2018 - Mar. 2021
   * Advisor: Prof. Chia-Hsiang Yang
   * Project: Blind image deblurring accelerator IC 
+* Undergraduate Student Researcher, Digital Circuits and Systems Lab, NTU, Mar. 2018 - June 2021
 * Electrical Engineering Intern, HP Inc., July 2017 - July 2018
 
 Skills
