@@ -30,7 +30,7 @@ Publications
   
 Honors & Awards
 ======
-* <b>Bronze Medal Award</b>, Macronix Golden Silicon Award, Aug., 2021 
+* <b>Bronze Medal Award</b>, Macronix Golden Silicon Award, Aug. 2021 
 
 Research & Work experience
 ======
