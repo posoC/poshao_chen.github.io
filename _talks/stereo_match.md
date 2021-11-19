@@ -11,7 +11,15 @@ location: "Taipei, Taiwan"
 
 [Report](http://posoc.github.io/files/cv_final_project.pdf)<br/>
 
-<img src='/images/stereo_match.png' width='600'>
+<img src='/images/stereo_match.png' width='600'> <br>
 
-
-<!--This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!-->
+The project includes the stereo matching for synthetic and real images. To enhance the result, several image processing methods are applied in our stereo matching algorithm:
+* Synthetic/Real data classification
+* Image rectification
+* Histogram equalization
+* Max disparity estimation
+* Weighted cost computation
+* Loopy belief propagation
+* Left right check
+* Hole filling
+* Edge smoothing
