@@ -47,4 +47,10 @@ Skills
 * Programming Language: Verilog, MATLAB, Python, C/C++, Latex
 * Hardware Design Tools: NC-verilog, Verdi/nWave, Design Compiler, Innovus, Calibre, Altera Quartus
 
+Extracurricular Activities
+======
+* Treasurer of Tainan Alumni Association, NTU, Sep. 2014 - Aug. 2016
+* Electrical Engineering Department Volleyball Team, NTU, Sep. 2014 - June 2018
+* Varsity Kendo Team, NTU, Dec. 2014 - July 2015
+
 
