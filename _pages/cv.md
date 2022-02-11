@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!--[PDF Link](http://posoc.github.io/files/CV.pdf)-->
+[PDF Link](http://posoc.github.io/files/CV.pdf)
 
 Research Interest
 ======
