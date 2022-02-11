@@ -13,7 +13,7 @@ redirect_from:
 
 Research Interest
 ======
-Energy efficient hardware accelerator for digital signal processing or machine learning
+Energy efficient hardware accelerator for digital signal processing, machine learning, or bioinformatics
 
 Education
 ======
