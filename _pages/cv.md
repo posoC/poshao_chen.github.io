@@ -13,14 +13,15 @@ redirect_from:
 
 Research Interest
 ======
-Energy efficient hardware accelerator for digital signal processing, machine learning, or bioinformatics
+Energy efficient hardware accelerator for digital signal processing
 
 Education
 ======
-* M.S. in Electronics Enginerring, National Taiwan University, 2021
+* Ph.D. in Electrical and Computer Engineering, University of Michigan, Present
+* M.S. in Electronics Engineering, National Taiwan University, 2021
   * Thesis: An Energy-Efficient Accelerator IC for Dark Channel Prior Based Blind Image Deblurring
   * Adivsor: Prof. Chia-Hsiang Yang
-* B.S. in Electrical Enginnering, National Taiwan University, 2018
+* B.S. in Electrical Engineering, National Taiwan University, 2018
 
 Publications
 ======
