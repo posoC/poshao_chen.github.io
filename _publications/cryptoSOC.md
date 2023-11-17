@@ -4,9 +4,7 @@ collection: publications
 permalink: /publication/cryptoSOC
 date: June, 2023
 venue: 'Int. Symposium on VLSI Circuits (VLSI Circuits)'
-citation: '<u>P.-S. Chen</u>, Y.-L. Chen, Y.-C. Lee, Z.-S. Fu, C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," <i>IEEE Asian Solid-State Circuits Conference (A-SSCC)</i>, Nov. 2021.
-
-L.-H. Lin, Z.-S. Fu, <u>P.-S. Chen</u>, B.-Y. Yang, and C.-H. Yang, "A 4.8mW, 800Mbps Hybrid Crypto SoC for Post-Quantum Secure Neural Interfacing," <i>Int. Symposium on VLSI Circuits (VLSI Circuits)</i>, June 2023.'
+citation: 'L.-H. Lin, Z.-S. Fu, <u>P.-S. Chen</u>, B.-Y. Yang, and C.-H. Yang, "A 4.8mW, 800Mbps Hybrid Crypto SoC for Post-Quantum Secure Neural Interfacing," <i>Int. Symposium on VLSI Circuits (VLSI Circuits)</i>, June 2023.'
 
 ---
 
