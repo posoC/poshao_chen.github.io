@@ -25,9 +25,6 @@ Education
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %} -->
-    <!-- {% include archive-single-cv.html %} -->
-  <!-- {% endfor %}</ul> -->
 * Journal Paper
   * <u>P.-S. Chen</u>, Y.-L. Chen, Y.-C. Lee, Z.-S. Fu, C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," <i>IEEE Journal Solid-State Circuits (JSSC)</i>, accepted. 
 * Conference Papers
