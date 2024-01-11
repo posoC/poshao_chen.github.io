@@ -30,8 +30,8 @@ Publications
   <!--{% endfor %}</ul>-->
 * Journal
 * Conference
-  * <u>P.-S. Chen</u>, Y.-L. Chen, Y.-C. Lee, Z.-S. Fu, C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," <i>IEEE Asian Solid-State Circuits Conference (A-SSCC)</i>, Nov. 2021. 
-  * A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring 
+  *   
+  * <u>P.-S. Chen</u>, Y.-L. Chen, Y.-C. Lee, Z.-S. Fu, C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," <i>IEEE Asian Solid-State Circuits Conference (A-SSCC)</i>, Nov. 2021.  
   
 Honors & Awards
 ======
