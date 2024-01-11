@@ -16,5 +16,5 @@ During my free time, I like participating in a variety of sports, such as volley
 <img src='/images/ntu_emblem.png' width='120' >
 <img src='/images/HP.jpg' width='120' > <br/>
 
-Email address: chen427chen@gmail.com <br/>
-Last update: 11/17/2023
+Email address: poshao@umich.edu <br/>
+Last update: 01/11/2024
