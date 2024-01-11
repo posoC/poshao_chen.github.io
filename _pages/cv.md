@@ -28,9 +28,9 @@ Publications
   <!--<ul>{% for post in site.publications %}-->
     <!--{% include archive-single-cv.html %}-->
   <!--{% endfor %}</ul>-->
-* Journal
+* Journal Paper
   * <u>P.-S. Chen</u>, Y.-L. Chen, Y.-C. Lee, Z.-S. Fu, C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," <i>IEEE Journal Solid-State Circuits (JSSC)</i>, accepted. 
-* Conference
+* Conference Papers
   * 'L.-H. Lin, Z.-S. Fu, <u>P.-S. Chen</u>, B.-Y. Yang, and C.-H. Yang, "A 4.8mW, 800Mbps Hybrid Crypto SoC for Post-Quantum Secure Neural Interfacing," <i>Int. Symposium on VLSI Circuits (VLSI Circuits)</i>, June 2023.'
   * <u>P.-S. Chen</u>, Y.-L. Chen, Y.-C. Lee, Z.-S. Fu, C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," <i>IEEE Asian Solid-State Circuits Conference (A-SSCC)</i>, Nov. 2021.  
   
