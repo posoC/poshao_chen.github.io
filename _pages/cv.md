@@ -25,9 +25,13 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <!--<ul>{% for post in site.publications %}-->
+    <!--{% include archive-single-cv.html %}-->
+  <!--{% endfor %}</ul>-->
+* Journal
+* Conference
+  * A 4.8mW, 800Mbps Hybrid Crypto SoC for Post-Quantum Secure Neural Interfacing 
+  * A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring 
   
 Honors & Awards
 ======
