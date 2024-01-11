@@ -33,6 +33,7 @@ Publications
   
 Honors & Awards
 ======
+* Master’s Thesis Award, IEEE Taipei Section, June 2022
 * <b>Bronze Medal Award</b>, Macronix Golden Silicon Award, Aug. 2021 
 
 Research & Work experience
