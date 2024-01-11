@@ -30,7 +30,7 @@ Publications
   <!--{% endfor %}</ul>-->
 * Journal
 * Conference
-  * A 4.8mW, 800Mbps Hybrid Crypto SoC for Post-Quantum Secure Neural Interfacing 
+  * <u>P.-S. Chen</u>, Y.-L. Chen, Y.-C. Lee, Z.-S. Fu, C.-H. Yang, "A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring," <i>IEEE Asian Solid-State Circuits Conference (A-SSCC)</i>, Nov. 2021. 
   * A 28.8mW Accelerator IC for Dark Channel Prior Based Blind Image Deblurring 
   
 Honors & Awards
